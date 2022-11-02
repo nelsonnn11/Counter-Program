@@ -1,0 +1,32 @@
+
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+#decreaseBtn{
+  background-color: #AFD5AA;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  width: 100px;
+  cursor: pointer;
+}
+#increaseBtn{
+  background-color: #AFD5AA;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  width: 100px;
+  cursor: pointer;
+}
+#resetBtn{
+  background-color: #AFD5AA;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  width: 50px;
+  cursor: pointer;
+}
+#countLabel {
+}
+body {background-color:#F0F2EF;}
